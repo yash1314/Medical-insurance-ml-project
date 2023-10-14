@@ -1,1 +1,1 @@
-# industry-grade-ml-project
+# Industry-grade-ml-project
