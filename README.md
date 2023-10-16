@@ -1,6 +1,6 @@
 # Medical Insurance Price Predictor
 
-![Project Image]<img src="images/istockphoto-868640146-1024x1024.jpg" width="200" height="150"> 
+<img src="images/istockphoto-868640146-1024x1024.jpg" width="250" height="200"> 
 
 - Predict medical insurance prices based on age, gender, children, BMI, region, and smoking status. This project uses Gradient boost Regressor machine learning model to provide estimated insurance costs.
 
