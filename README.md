@@ -49,8 +49,8 @@ To run this project locally, follow these steps:
    cd medical-insurance-predictor
 
 2. Install project dependencies:
-
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 ## Usage
 - Data Ingestion: Use the data ingestion component to load your data.
