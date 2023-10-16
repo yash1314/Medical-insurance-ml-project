@@ -4,7 +4,6 @@ import os
 from src.pipelines.prediciton_pipeline import PredictPipeline
 from src.exception import CustomException
 from src.logger import logging
-from src.utils import load_object
 
 import streamlit as st
 import time
@@ -12,16 +11,8 @@ import numpy as np
 
 predict = PredictPipeline()
 
-preprocessor_path = os.path.join('artifacts', 'preprocessor.pkl')
-model_path = os.path.join('artifacts', 'model.pkl')
-
-#processor and model object creation 
-preprocessor = load_object(preprocessor_path)
-model = load_object(model_path)
-
-
 # Image
-st.image('istockphoto-868640146-1024x1024.jpg', width=400)
+st.image('images\istockphoto-868640146-1024x1024.jpg', width=300)
 
 # Title
 st.title('Medical Insurance cost predictor')
