@@ -1,6 +1,7 @@
 # Medical Insurance Price Predictor
 
 Predict medical insurance prices based on age, gender, children, BMI, region, and smoking status. This project uses Gradient boost Regressor machine learning model to provide estimated insurance costs.
+webapp url : https://industry-grade-ml-project-yarcocnxzuu9yhnze7enft.streamlit.app/
 
 ## Table of Contents
 - [Project Overview](#project-overview)
