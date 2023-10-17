@@ -55,8 +55,7 @@ To run this project locally, follow these steps:
 - Data Transformation: Transform and preprocess the data for training.
 - Model Training: Train the machine learning model using the training pipeline.
 - Prediction: Make predictions using the prediction pipeline.
-- Dockerize the project for easy deployment and scalability.
-- Run the project on an AWS EC2 instance via Streamlit for web-based interaction.
+- Run the app through streamlit url.
 Detailed usage instructions are available in the project's notebooks and code documentation.
 
 ## Contributing
