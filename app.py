@@ -12,7 +12,7 @@ import numpy as np
 predict = PredictPipeline()
 
 # Image
-st.image('images\istockphoto-868640146-1024x1024.jpg', width=300)
+st.image('images/istockphoto-868640146-1024x1024.jpg', width=300)
 
 # Title
 st.title('Medical Insurance cost predictor')
@@ -48,7 +48,7 @@ if st.button('Predict'):
         
 
     else:
-        result = predict.predict(input_data)
+        result = np.round(predict.predict(input_data))
 
         bar = st.progress(50)
         time.sleep(1)
