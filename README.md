@@ -2,7 +2,7 @@
 
 <img src="images/istockphoto-868640146-1024x1024.jpg" width="300" height="250"> 
 
-- Predict medical insurance prices based on age, gender, children, BMI, region, and smoking status. This project uses Gradient boost Regressor machine learning model to provide estimated insurance costs.
+Predict medical insurance prices based on age, gender, children, BMI, region, and smoking status. This project uses Gradient boost Regressor machine learning model to provide estimated insurance costs.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
