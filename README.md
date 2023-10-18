@@ -71,5 +71,6 @@ Thanks to the contributors of open-source libraries and frameworks used in this 
 ## Contact
 If you have questions or feedback, feel free to reach out to:
 
-Name: Yash keshari
-Email: yashkeshari79@gmail.com 
+- Name: Yash keshari
+- Email: yashkeshari79@gmail.com 
+- linkedin - www.linkedin.com/in/yash907
