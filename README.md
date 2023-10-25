@@ -1,8 +1,7 @@
 # Medical Insurance Price Predictor
 
-<img src="images/istockphoto-868640146-1024x1024.jpg" width="300" height="250"> 
-
-- Predict medical insurance prices based on age, gender, children, BMI, region, and smoking status. This project uses Gradient boost Regressor machine learning model to provide estimated insurance costs.
+Predict medical insurance prices based on age, gender, children, BMI, region, and smoking status. This project uses Gradient boost Regressor machine learning model to provide estimated insurance costs.
+webapp url : https://industry-grade-ml-project-yarcocnxzuu9yhnze7enft.streamlit.app/
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -57,8 +56,7 @@ To run this project locally, follow these steps:
 - Data Transformation: Transform and preprocess the data for training.
 - Model Training: Train the machine learning model using the training pipeline.
 - Prediction: Make predictions using the prediction pipeline.
-- Dockerize the project for easy deployment and scalability.
-- Run the project on an AWS EC2 instance via Streamlit for web-based interaction.
+- Run the app through streamlit url.
 Detailed usage instructions are available in the project's notebooks and code documentation.
 
 ## Contributing
@@ -73,5 +71,6 @@ Thanks to the contributors of open-source libraries and frameworks used in this 
 ## Contact
 If you have questions or feedback, feel free to reach out to:
 
-Name: Yash keshari
-Email: yashkeshari79@gmail.com 
+- Name: Yash keshari
+- Email: yashkeshari79@gmail.com 
+- linkedin - www.linkedin.com/in/yash907
